@@ -1,0 +1,12 @@
+[Aa]ssets/JewelryClickAssets/Models/*
+[Aa]ssets/JewelryClickAssets/Fonts/*
+[Aa]ssets/JewelryClickAssets/Sprites/*
+
+
+Library
+Logs
+obj
+Build
+*csproj
+Build.7z
+.vs
